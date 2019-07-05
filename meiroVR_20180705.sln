@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "meiroVR_20180705", "meiroVR_20180705.csproj", "{593463C8-4F75-37C1-8B72-4DBA26C9A833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "meiroVR_20180705.Editor", "meiroVR_20180705.Editor.csproj", "{E2B9967D-C45C-2FEC-2F5B-05B96897BD14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{593463C8-4F75-37C1-8B72-4DBA26C9A833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593463C8-4F75-37C1-8B72-4DBA26C9A833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593463C8-4F75-37C1-8B72-4DBA26C9A833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593463C8-4F75-37C1-8B72-4DBA26C9A833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2B9967D-C45C-2FEC-2F5B-05B96897BD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B9967D-C45C-2FEC-2F5B-05B96897BD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B9967D-C45C-2FEC-2F5B-05B96897BD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B9967D-C45C-2FEC-2F5B-05B96897BD14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

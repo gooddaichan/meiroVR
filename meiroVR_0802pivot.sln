@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "meiroVR_0802pivot", "Assembly-CSharp.csproj", "{19FE3F7C-4C7D-B4F6-FEFB-24BB9B303980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "meiroVR_0802pivot", "Assembly-CSharp-Editor.csproj", "{96BB212B-AEBA-CDB6-C71F-E812E3787BCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19FE3F7C-4C7D-B4F6-FEFB-24BB9B303980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FE3F7C-4C7D-B4F6-FEFB-24BB9B303980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FE3F7C-4C7D-B4F6-FEFB-24BB9B303980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FE3F7C-4C7D-B4F6-FEFB-24BB9B303980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96BB212B-AEBA-CDB6-C71F-E812E3787BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96BB212B-AEBA-CDB6-C71F-E812E3787BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96BB212B-AEBA-CDB6-C71F-E812E3787BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96BB212B-AEBA-CDB6-C71F-E812E3787BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

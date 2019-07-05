@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "meiroVR_0807一番まし - コピー", "meiroVR_0807一番まし - コピー.csproj", "{928790A2-955F-08D5-8FF8-DFC27A2FB8EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "meiroVR_0807一番まし - コピー.Editor", "meiroVR_0807一番まし - コピー.Editor.csproj", "{110F7BDF-BC7C-631C-7E66-7981C58B453A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{928790A2-955F-08D5-8FF8-DFC27A2FB8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928790A2-955F-08D5-8FF8-DFC27A2FB8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928790A2-955F-08D5-8FF8-DFC27A2FB8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928790A2-955F-08D5-8FF8-DFC27A2FB8EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{110F7BDF-BC7C-631C-7E66-7981C58B453A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110F7BDF-BC7C-631C-7E66-7981C58B453A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110F7BDF-BC7C-631C-7E66-7981C58B453A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110F7BDF-BC7C-631C-7E66-7981C58B453A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

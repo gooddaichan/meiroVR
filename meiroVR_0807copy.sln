@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "meiroVR_0807copy", "Assembly-CSharp.csproj", "{E8881047-AD4D-40F8-3A83-4F545B09C5A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "meiroVR_0807copy", "Assembly-CSharp-Editor.csproj", "{F6CD3CAB-9D16-9094-2B9E-48AAAD6E801F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8881047-AD4D-40F8-3A83-4F545B09C5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8881047-AD4D-40F8-3A83-4F545B09C5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8881047-AD4D-40F8-3A83-4F545B09C5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8881047-AD4D-40F8-3A83-4F545B09C5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6CD3CAB-9D16-9094-2B9E-48AAAD6E801F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6CD3CAB-9D16-9094-2B9E-48AAAD6E801F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6CD3CAB-9D16-9094-2B9E-48AAAD6E801F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6CD3CAB-9D16-9094-2B9E-48AAAD6E801F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
